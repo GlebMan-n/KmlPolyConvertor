@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Folder><name>Polygon folder</name><visibility>0</visibility><open>1</open><Document><name>polygons</name><visibility>0</visibility><Style id="styleNo1" threshold_value="45.0"><LineStyle><width>0</width><color>80ffff00</color></LineStyle><PolyStyle><color>80ffff00</color></PolyStyle></Style><open>1</open>
+<Placemark><styleUrl>#styleNo1</styleUrl><Polygon><extrude>0</extrude><tessellate>0</tessellate><outerBoundaryIs><LinearRing><coordinates>
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.1939,53.4068,0
+	45.2088,53.3978,0
+	45.2088,53.3978,0
+	45.2088,53.3978,0
+	45.2985,53.3167,0
+	45.2985,53.3167,0
+	45.2985,53.3167,0
+	45.2985,53.3167,0
+	45.2985,53.3167,0
+	45.2985,53.3167,0
+	45.3126,53.1999,0
+	45.3125,53.1819,0
+	45.3125,53.1819,0
+	45.3125,53.1819,0
+	45.2665,52.9933,0
+	45.2665,52.9933,0
+	45.2665,52.9933,0
+	45.2665,52.9933,0
+	45.2665,52.9933,0
+	45.2665,52.9933,0
+	45.2665,52.9933,0
+	45.2665,52.9933,0
+	45.2515,52.9844,0
+	45.1918,52.9575,0
+	45.1918,52.9575,0
+	45.1918,52.9575,0
+	45.1918,52.9575,0
+	45.1918,52.9575,0
+	45.1918,52.9575,0
+	45.177,52.9575,0
+	45.177,52.9575,0
+	45.177,52.9575,0
+	44.8494,53.0115,0
+	44.8494,53.0115,0
+	44.8494,53.0115,0
+	44.8494,53.0115,0
+	44.8494,53.0115,0
+	44.8345,53.0205,0
+	44.8345,53.0205,0
+	44.8345,53.0205,0
+	44.8345,53.0205,0
+	44.8345,53.0205,0
+	44.8045,53.0564,0
+	44.8045,53.0564,0
+	44.7139,53.2269,0
+	44.6834,53.2987,0
+	44.6834,53.2987,0
+	44.6831,53.3436,0
+	44.6831,53.3436,0
+	44.6831,53.3436,0
+	44.6831,53.3436,0
+	44.698,53.3527,0
+	44.698,53.3527,0
+	44.9082,53.4069,0
+	44.9082,53.4069,0
+	44.9082,53.4069,0
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><styleUrl>#styleNo1</styleUrl><Polygon><extrude>0</extrude><tessellate>0</tessellate><outerBoundaryIs><LinearRing><coordinates>
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+</Document></Folder></kml>
